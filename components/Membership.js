@@ -28,7 +28,7 @@ export function Membership() {
         </div>
         <div className="w-full lg:w-1/2 mt-5 lg:mt-0 mb-10">
           <div className="bg-transparent lg:bg-pink-400 w-full h-56 mt-56 lg:relative">
-            <div className="hero-background w-full h-[30rem] lg:absolute lg:-top-3/4 lg:right-1/4"></div>
+            <div className="membership-bg w-full h-[30rem] lg:absolute lg:-top-3/4 lg:right-1/4"></div>
           </div>
         </div>
       </div>
