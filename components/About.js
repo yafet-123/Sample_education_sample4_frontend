@@ -14,7 +14,7 @@ export function About() {
           </h1>
         </div>
 
-        <div className="bg-white w-[40rem] h-[30rem] p-10 absolute top-10 lg:top-3/4 right-10 lg:right-1/4">
+        <div className="bg-white w-[40rem] h-[30rem] p-10 absolute top-10 lg:top-3/4 left-5 lg:right-1/4">
           <h1 className="text-black text-4xl font-light capitalize text-center mb-5 tracking-wide">
             contact us
           </h1>

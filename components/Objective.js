@@ -12,7 +12,7 @@ export function Objective() {
           community{" "}
         </h3>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 mx-20">
+      <div className="flex flex-col lg:flex-row items-center justify-between mx-0 lg:mx-20">
         <div className="bg-white w-96 h-[30rem] border rounded-lg p-5 flex flex-col justify-between mb-5">
           <div className="objecive-grid1 w-full h-1/2"></div>
           <div className="h-1/2 mt-5">
