@@ -2,8 +2,8 @@ import React from "react";
 
 export function Trending() {
   return (
-    <div className="bg-slate-800 w-full h-full px-24 py-20">
-      <div className="hidden lg:flex items-center mx-72 relative">
+    <div className="bg-slate-800 w-full h-full py-20">
+      <div className="hidden lg:flex mx-20 relative">
         <div className="trending-grid1 w-[30rem] h-[35rem]"></div>
         <div className="trending-grid2 w-[30rem] h-[35rem] absolute top-10 left-[25rem] z-20"></div>
         <div className="hidden lg:block w-[30rem] h-[30rem] bg-pink-400 z-10 absolute top-20 left-[27rem]"></div>
