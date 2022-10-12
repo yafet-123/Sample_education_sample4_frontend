@@ -42,7 +42,7 @@ export function Membership() {
         </div>
 
         <div className="flex flex-col lg:flex-row justify-between m-20">
-          <p className="lg:w-2/4 text-left font-serif tracking-wide leading-6 capitalize text-base mb-5 lg:pr-28">
+          <p className="lg:w-2/4 text-left font-serif tracking-wide leading-6 capitalize text-base mb-5 p-0 lg:pr-28">
             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
             nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
@@ -50,7 +50,7 @@ export function Membership() {
             culpa qui officia deserunt mollit anim id est laborum.
           </p>
 
-          <h1 className="text-5xl font-light capitalize lg:w-1/2 lg:text-right lg:pl-28">
+          <h1 className="text-5xl font-light capitalize lg:w-1/2 lg:text-right p-0 lg:pl-28">
             join the networks of more than 500 runners
           </h1>
         </div>
