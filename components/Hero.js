@@ -5,7 +5,7 @@ export function Hero() {
   return (
     <div className="">
       <div className="hero-background w-full h-[40rem]"></div>
-      <div className="bg-slate-900 w-full h-screen ">
+      <div className="bg-slate-900 w-full h-full lg:h-screen ">
         <div className="hidden lg:flex flex-col lg:flex-row mx-20">
           <div className="bg-white w-96 h-96 mx-auto -mt-20 border rounded-lg p-5 flex flex-col justify-between">
             <h1 className="text-slate-700 text-xl font-extrabold uppercase text-center">
