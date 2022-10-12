@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import { About } from "../components/About";
 import { Footer } from "../components/footer";
 import { Hero } from "../components/Hero";
 import { Membership } from "../components/Membership";
@@ -14,6 +15,7 @@ export default function Home() {
       <Hero />
       <Objective />
       <Membership />
+      <About />
       <Footer />
     </div>
   );

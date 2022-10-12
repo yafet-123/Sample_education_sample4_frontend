@@ -64,3 +64,10 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.about-background {
+  background-image: url("../public/images/bgImage9.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
