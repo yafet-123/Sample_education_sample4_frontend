@@ -88,10 +88,10 @@ export function Hero() {
         </div>
       </div>
 
-      <div className="bg-slate-300 px-24 h-screen w-full relative">
-        <div className="hidden lg:block bg-pink-400 w-96 h-full float-right -mt-72"></div>
-        <div className="hero-background-two w-full lg:w-3/4 h-full lg:h-3/4 lg:absolute lg:right-48 mt-5 lg:-mt-48 ">
-          <div className="bg-white w-[40rem] h-96 p-10 absolute -bottom-72 -left-20">
+      <div className="bg-slate-300 px-0 lg:px-24 h-screen w-full relative">
+        <div className="hidden lg:block bg-pink-400 w-96 h-full float-right mt-0 lg:-mt-72"></div>
+        <div className="hero-background-two w-full lg:w-3/4 h-full lg:h-3/4 lg:absolute lg:right-48 pt-5 lg:-mt-48 ">
+          <div className="bg-white w-[40rem] h-96 p-10 absolute top-10 lg:-bottom-72 left-10 lg:-left-20">
             <h1 className="text-slate-700 text-2xl font-medium uppercase text-left mb-5 tracking-wide">
               running school
             </h1>
