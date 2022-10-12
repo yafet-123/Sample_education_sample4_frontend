@@ -91,12 +91,12 @@ export function Hero() {
       <div className="bg-slate-300 px-0 lg:px-24 h-screen w-full relative">
         <div className="hidden lg:block bg-pink-400 w-96 h-full float-right mt-0 lg:-mt-72"></div>
         <div className="hero-background-two w-full lg:w-3/4 h-full lg:h-3/4 lg:absolute lg:right-48 pt-5 lg:-mt-48 ">
-          <div className="bg-white w-[40rem] h-96 p-10 absolute top-10 lg:-bottom-72 left-10 lg:-left-20">
-            <h1 className="text-slate-700 text-2xl font-medium uppercase text-left mb-5 tracking-wide">
+          <div className="bg-white w-[35rem] lg:w-[40rem] h-96 p-10 absolute top-0 lg:-bottom-72 left-0 lg:-left-20">
+            <h1 className="text-slate-700 text-xl lg:text-2xl font-medium uppercase text-left mb-5 tracking-wide">
               running school
             </h1>
 
-            <h1 className="text-black text-5xl font-medium uppercase text-left w-3/4 tracking-wide leading-[4rem] ">
+            <h1 className="text-black text-3xl lg:text-5xl font-medium uppercase text-left w-3/4 tracking-wide leading-[4rem] ">
               boost your running skills
             </h1>
           </div>
